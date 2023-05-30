@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_cerrar"
+          android:title="@string/action_cerrar"
+          android:icon="@android:drawable/ic_lock_idle_lock"
+          android:showAsAction="ifRoom|withText" />
+    
+    <item android:id="@+id/action_abrir"
+          android:title="@string/action_abrir"
+           android:icon="@android:drawable/ic_menu_revert"
+          android:showAsAction="ifRoom|withText" />
+
+</menu>

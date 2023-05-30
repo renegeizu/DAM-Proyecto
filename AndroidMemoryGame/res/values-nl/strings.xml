@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welkom bij het Geheugenspel!</string>
+    <string name="app_name">Geheugenspel</string>
+    <string name="menu_new_game">nieuw spel</string>
+    <string name="end_game">stop</string>
+    <string name="play_move">speel</string>
+    <string name="play_again">speel opnieuw</string>
+    <string name="scoreboard_text">Je hebt het spel beeindigd  in %d pogingen!</string>
+    <string name="feedback">0 / 0</string>
+    <string name="menu_prefs">instellingen</string>
+    <string name="prefs">INSTELLINGEN</string>
+    <string name="sound_correct">maak geluid indien correct</string>
+    <string name="sound_incorrect">maak geluid indien incorrect</string>
+    <string name="save_prefs">sla op en terug naar menu</string>
+    <string name="save_game">sla op en terug naar spel</string>
+    <string name="menu">menu</string>
+</resources>

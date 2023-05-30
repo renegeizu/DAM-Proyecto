@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Forma redondeada al boton -->
+    <corners android:radius="20dp" />
+	 
+    <!-- Efecto degradado al boton -->
+	<gradient
+	    android:endColor="#C0C0DD"
+	    android:gradientRadius="150"
+	    android:startColor="#D3D3FF"
+	    android:type="radial" />
+
+</shape>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reproductor Musica</string>
+    <string name="action_grabar">Grabar</string>
+    <string name="title_activity_grabador">Grabador</string>
+    
+    <string name="detalle_Nombre">Nombre de la Canción</string>
+    <string name="reproductor_Canciones">No hay canciones disponibles</string>
+    <string name="reproductor_Nombre">No hay canciones reproduciéndose</string>
+    <string name="btGrabar">Comenzar</string>
+    <string name="btDetener">Parar</string>
+    <string name="grabacion">No hay grabación en curso</string>
+	<string name="titulo_grabar">Grabador de sonidos</string>
+</resources>

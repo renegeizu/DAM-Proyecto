@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="mode_ready">Toca para Jugar</string>
+    <string name="mode_pause">Pausado</string>
+    <string name="mode_win">Punto para el Jugador</string>
+    <string name="mode_lose">Punto para la CPU</string>
+    <string name="menu_new_game">Juego Nuevo</string>
+    <string name="menu_exit">Salir</string>
+    <string name="menu_resume">Continuar</string>
+    <string name="default_score">0    0</string>
+</resources>

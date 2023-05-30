@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/action_insertar_mesa"
+	    android:orderInCategory="100"
+		android:icon="@android:drawable/ic_input_add"
+        android:showAsAction="ifRoom|withText" />
+    
+    <item
+        android:id="@+id/action_administrar_carta"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_input_get"
+		android:showAsAction="ifRoom|withText" />
+
+</menu>

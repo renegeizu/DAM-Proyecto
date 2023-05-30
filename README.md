@@ -1,2 +1,3 @@
-# DAM-Proyecto
-Desarrollo de Aplicaciones Multiplataforma 2013/2014 - Proyectos Personales
+# Proyectos Personales
+
+Proyectos en Android para Practicar

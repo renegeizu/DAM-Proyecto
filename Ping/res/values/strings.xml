@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lanzar Ping</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvTipoPing">Tipo del Ping</string>
+    <string name="rbSimple">Ping a Direccion</string>
+    <string name="tvRango">Ping a Red</string>
+    <string name="tvIp">IP para el Ping</string>
+    <string name="hint">Escribir IP</string>
+    <string name="btPing">Lanzar Ping</string>
+    
+</resources>

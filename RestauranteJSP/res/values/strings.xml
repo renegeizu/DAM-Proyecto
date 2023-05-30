@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurante JSP</string>
+    <string name="ventana__pedido">Pedido</string>
+    <string name="ventana__carta">Carta</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_cerrar">Cerrar</string>
+	<string name="action_abrir">Abrir</string>
+    <string name="txt_mesa">Mesa</string>
+	<string name="txt_plato">Plato</string>
+	<string name="txt_precio">Precio</string>
+	<string name="txt_pedido">Pedido</string>
+	<string name="txt_preciodf">0</string>
+	<string name="action_actualizar_carta">Actualizar</string>
+	<string name="action_actualizar_mesa">Actualizar</string>
+	
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurante</string>
+    <string name="title_activity_ventana__carta">Carta</string>
+    <string name="title_activity_ventana__pedido">Pedido</string>
+    
+    <string name="action_abrir">Abrir Pedido</string>
+    <string name="action_cerrar">Cerrar Pedido</string>
+    <string name="action_insertar_mesa">Insertar Mesa</string>
+    <string name="action_administrar_carta">Administracion Carta</string>
+    <string name="action_insertar_carta">Insertar Carta</string>
+    <string name="action_borrar_carta">Borrar</string>
+    <string name="action_editar_carta">Editar</string>
+    <string name="action_borrar_mesa">Borrar</string>
+    <string name="action_editar_mesa">Editar</string>
+    
+    <string name="boton_detalle_mesa">Mesa</string>
+    <string name="tv_Elemento_Detalle_Carta">Nombre del Elemento</string>
+    <string name="tv_Precio_Detalle_Carta">Precio</string>
+    <string name="tv_Cantidad_Detalle_Pedido">0</string>
+    <string name="tv_Nombre_Detalle_Pedido">Elemento</string>
+    <string name="et_Carta_Dialogo_Carta">Nombre del Elemento</string>
+    <string name="et_Precio_Dialogo_Carta">Precio del Elemento</string>
+    <string name="bt_Guardar_Dialogo_Carta">Confirmar</string>
+    <string name="et_Insertar_Dialogo_Mesa">Nombre de la Mesa</string>
+    <string name="bt_Guardar_Dialogo_Mesa">Confirmar</string>
+
+</resources>
